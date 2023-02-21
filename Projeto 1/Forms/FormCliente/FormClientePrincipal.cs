@@ -83,7 +83,7 @@ namespace Projeto_1
             dgvCliente.Rows.Clear();
             CarregarGrid();
         }
-
+// lalalalalala
         private void dgvCliente_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
