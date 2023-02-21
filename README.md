@@ -1,4 +1,4 @@
-> **Project status:** complete :heavy_check_mark: </br>
+> **Project status:** incomplete :warning: </br>
 > **Author:** Andre Marino Balera :busts_in_silhouette: </br>
 > **Year:** 2023 :date:
 
