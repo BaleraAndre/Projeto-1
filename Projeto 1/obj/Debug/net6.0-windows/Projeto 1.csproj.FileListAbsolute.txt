@@ -1,0 +1,37 @@
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\bin\Debug\net6.0-windows\Projeto 1.exe
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\bin\Debug\net6.0-windows\Projeto 1.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\bin\Debug\net6.0-windows\Projeto 1.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\bin\Debug\net6.0-windows\Projeto 1.dll
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\bin\Debug\net6.0-windows\Projeto 1.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto 1.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto 1.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto 1.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto 1.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto 1.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto 1.dll
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\refint\Projeto 1.dll
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto 1.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto 1.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\ref\Projeto 1.dll
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto 1.csproj.CopyComplete
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.FormClientePrincipal.resources
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.Forms.FormCliente.FormClienteSecundario.resources
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.Forms.FormMenu.FormMenuPrincipal.resources
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.Properties.Resources.resources
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.Forms.FormFuncionario.FormFuncionario.resources
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.Forms.FormFuncionario.FormFuncionarioSecundario.resources
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.Forms.FormProduto.FormProdutoSecundario.resources
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.Forms.FormFinanceiro.FormFinanceiro.resources
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.Forms.Venda.FormVenda.resources
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.FormMENU.resources
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.Forms.FormLogIn.FormEmail.resources
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.Forms.FormVenda.FormSangria.resources
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\bin\Debug\net6.0-windows\Guna.Charts.WinForms.dll
+C:\Users\andre\OneDrive\Área de Trabalho\andre\Projeto 1\Projeto 1\obj\Debug\net6.0-windows\Projeto_1.Forms.FormProduto.FormProduto.resources
